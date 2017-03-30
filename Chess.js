@@ -1,3 +1,5 @@
+// Chess Board
+
 var size = 8;
 var row="";
 
